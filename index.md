@@ -1,13 +1,13 @@
 # Ishika Agrawal
 I'm a second-year CS major with a keen interest in exploring the intersection of technology, finance, and neuroscience. I believe college is the perfect time to delve into various interests and projects to uncover my true passion.
-My primary focus is on CS and Machine Learning, with aspirations to one day start my own company which would solve world's biggest societal issues. Driven by a desire to innovate and effect positive change, 
-I am particularly drawn to issues surrounding mental health and women's safety. I am eager to acquire entrepreneurial skills through hands-on experiences, with the ultimate goal of leveraging technology to develop impactful solutions in these critical areas.
+My primary focus is on CS and Machine Learning, with aspirations to one day start my own company which would solve **world's biggest societal issues**. Driven by a desire to innovate and effect positive change, 
+I am particularly drawn to issues surrounding **_mental health_** and **_women's safety_**. I am eager to acquire entrepreneurial skills through hands-on experiences, with the ultimate goal of leveraging technology to develop impactful solutions in these critical areas.
 
 ## Programming
 ### Experience
 I'm extremely passionate about coding. I see it is art that allows me the build absolutely anything I'm interested in.
 
-I have experience with the following languages/tools:
+I have experience with the following **languages/tools**:
 + Python
 + C/C++
 + Java
@@ -19,7 +19,7 @@ I have experience with the following languages/tools:
 
 ### Goals
 I hope to do the following through this course:
-- [ ] Understand the true meaning of software engineering
+- [ ] Understand the true _meaning_ of software engineering
 - [ ] Do a cool project
 - [ ] Get more knowledge about what working in the tech industry feels like
 
@@ -28,6 +28,5 @@ I hope to do the following through this course:
 1. I'm an avid weightlifter, with a black belt in karate. This year, I'm looking forward to exploring more combative sports like boxing or muay thai.
 2. I have a very diverse music taste, and some of my favorite artists are MGK, Juice Wrld, Eminem.
 3. I also enjoy watching movies, and my all-timne favorites include Good Will Hunting, Dead Poets Society, Gia, and Beautiful Boy.
-  
-I’m also a board member of Triton NeuroTech, as well as CSE Society.
+4. I like giving back to the tech community, and hence I joined Triton NeuroTech, as well as CSE Society as a board member.
 
