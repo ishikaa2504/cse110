@@ -4,6 +4,7 @@ My primary focus is on CS and Machine Learning, with aspirations to one day star
 I am particularly drawn to issues surrounding mental health and women's safety. I am eager to acquire entrepreneurial skills through hands-on experiences, with the ultimate goal of leveraging technology to develop impactful solutions in these critical areas.
 
 ## Programming
+### Experience
 I'm extremely passionate about coding. I see it is art that allows me the build absolutely anything I'm interested in.
 
 I have experience with the following languages/tools:
@@ -15,6 +16,14 @@ I have experience with the following languages/tools:
 + Pandas/NumPy
 + React Native
 + Node.js
+
+### Goals
+I hope to do the following through this course:
+- [ ] Understand the true meaning of software engineering
+- [ ] Do a cool project
+- [ ] Get more knowledge about what working in the tech industry feels like 
+## Hobbies
+
   
 I’m also a board member of Triton NeuroTech, as well as CSE Society.
 
