@@ -1,5 +1,5 @@
 # Ishika Agrawal
-I'm a second-year CS major with a keen interest in exploring the intersection of technology, finance, and neuroscience. I believe college is the perfect time to delve into various interests and projects to uncover my true passion.
+I'm a second-year CS major with a keen interest in exploring the intersection of technology, finance, and neuroscience. I am double minoring in math and finance to pursue these interests. I believe college is the perfect time to delve into various interests and projects to uncover my true passion.
 My primary focus is on CS and Machine Learning, with aspirations to one day start my own company which would solve **world's biggest societal issues**. Driven by a desire to innovate and effect positive change, 
 I am particularly drawn to issues surrounding **_mental health_** and **_women's safety_**. I am eager to acquire entrepreneurial skills through hands-on experiences, with the ultimate goal of leveraging technology to develop impactful solutions in these critical areas.
 
