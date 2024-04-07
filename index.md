@@ -21,9 +21,13 @@ I have experience with the following languages/tools:
 I hope to do the following through this course:
 - [ ] Understand the true meaning of software engineering
 - [ ] Do a cool project
-- [ ] Get more knowledge about what working in the tech industry feels like 
-## Hobbies
+- [ ] Get more knowledge about what working in the tech industry feels like
 
+
+## Hobbies
+1. I'm an avid weightlifter, with a black belt in karate. This year, I'm looking forward to exploring more combative sports like boxing or muay thai.
+2. I have a very diverse music taste, and some of my favorite artists are MGK, Juice Wrld, Eminem.
+3. I also enjoy watching movies, and my all-timne favorites include Good Will Hunting, Dead Poets Society, Gia, and Beautiful Boy.
   
 I’m also a board member of Triton NeuroTech, as well as CSE Society.
 
