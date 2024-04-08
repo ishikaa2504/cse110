@@ -36,7 +36,7 @@ git push
 git add
 git pull
 ```
-Please find the screenshots for Lab 1 linked [here](/Lab1) ([screenshot 1](/Lab1/ss1.png) and [screenshot 2](/Lab1/ss2.png))
+Please find the screenshots for Lab 1 linked [here](/Screenshots) ([screenshot 1](/Screenshots/ss1.png) and [screenshot 2](/Screenshots/ss2.png))
 
 
 ## Hobbies
