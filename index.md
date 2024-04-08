@@ -23,6 +23,9 @@ I hope to do the following through this course:
 - [ ] Do a cool project
 - [ ] Get more knowledge about what working in the tech industry feels like
 
+### Lab 1
+Please find the screenshots for Lab 1 linked here
+
 
 ## Hobbies
 1. I'm an avid weightlifter, with a black belt in karate. This year, I'm looking forward to exploring more combative sports like boxing or muay thai.
