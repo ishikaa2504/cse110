@@ -3,6 +3,8 @@ I'm a second-year CS major with a keen interest in exploring the intersection of
 My primary focus is on CS and Machine Learning, with aspirations to one day start my own company which would solve **world's biggest societal issues**. Driven by a desire to innovate and effect positive change, 
 I am particularly drawn to issues surrounding **_mental health_** and **_women's safety_**. I am eager to acquire entrepreneurial skills through hands-on experiences, with the ultimate goal of leveraging technology to develop impactful solutions in these critical areas.
 
+> Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
+
 ## Programming
 ### Experience
 I'm extremely passionate about coding. I see it is art that allows me the build absolutely anything I'm interested in.
@@ -24,6 +26,14 @@ I hope to do the following through this course:
 - [ ] Get more knowledge about what working in the tech industry feels like
 
 ### Lab 1
+I used the following git commands for this lab activity:
+```
+git commit
+git clone
+git push
+git add
+git pull
+```
 Please find the screenshots for Lab 1 linked [here](/Lab1) ([screenshot 1](/Lab1/ss1.png) and [screenshot 2](/Lab1/ss2.png))
 
 
