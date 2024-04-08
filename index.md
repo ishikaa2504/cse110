@@ -24,7 +24,7 @@ I hope to do the following through this course:
 - [ ] Get more knowledge about what working in the tech industry feels like
 
 ### Lab 1
-Please find the screenshots for Lab 1 linked [here](/Lab1)
+Please find the screenshots for Lab 1 linked [here](/Lab1) ([screenshot 1](/Lab1/ss1.png) and [screenshot 2](/Lab1/ss2.png))
 
 
 ## Hobbies
