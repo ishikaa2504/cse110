@@ -23,9 +23,9 @@ I have experience with the following **languages/tools**:
 
 ### Goals
 I hope to do the following through this course:
-- [ ] Understand the true _meaning_ of software engineering
-- [ ] Do a cool project
-- [ ] Get more knowledge about what working in the tech industry feels like
+[ ] Understand the true _meaning_ of software engineering
+[ ] Do a cool project
+[ ] Get more knowledge about what working in the tech industry feels like
 
 ### Lab 1
 I used the following git commands for this lab activity:
