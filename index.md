@@ -5,6 +5,8 @@ I am particularly drawn to issues surrounding **_mental health_** and **_women's
 
 > Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
 
+![Programmer](/programmer.png)
+
 ## Programming
 ### Experience
 I'm extremely passionate about coding. I see it is art that allows me the build absolutely anything I'm interested in.
